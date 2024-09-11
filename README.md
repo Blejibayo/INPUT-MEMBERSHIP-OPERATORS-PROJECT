@@ -1,2 +1,2 @@
 # INPUT-MEMBERSHIP-OPERATORS-PROJECT
-These operators describe what membership and input operators are made up of in python
+Membership operators(in, not in) test whether a value exists in a sequences: While Input operatos get data from users or files, making data processing easier.
